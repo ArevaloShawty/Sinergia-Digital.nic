@@ -181,9 +181,6 @@ section {
     transform: scale(1.05);
 }
 
-h3 {
-    color: #007BFF;
-}
 
 ul {
     list-style-type: none;
@@ -392,7 +389,7 @@ h2 {
 }
 
 h3 {
-    color: #007BFF;
+    color: purple;
 }
 
 .r {
@@ -413,7 +410,7 @@ h3 {
 
 .faq-question {
     cursor: pointer;
-    color: #007BFF;
+    color: purple;
     margin: 0;
     font-size: 1.1em;
 }
@@ -695,3 +692,4 @@ h3 {
         display: none; /* Ocultar el botón en pantallas grandes */
     }
 }
+
